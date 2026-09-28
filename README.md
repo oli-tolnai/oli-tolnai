@@ -1,12 +1,11 @@
 # Hi, I'm Olivér Tolnai
 
-I'm a frontend-focused software developer from Vác, Hungary. My main stack is
-Angular and TypeScript, but I also build complete features with C#, ASP.NET
-Core, real-time messaging and relational databases.
+I build frontend-focused software with Angular and TypeScript, and take
+features across C#, ASP.NET Core, real-time messaging and relational databases
+when the product needs it.
 
-I enjoy turning complex behaviour into interfaces that are clear, responsive
-and dependable. I am currently looking for a software development opportunity
-where I can keep growing while contributing to a real product and team.
+This profile collects my professional work and software projects, with a focus
+on the problems they solve, the parts I built and the engineering behind them.
 
 ## Experience
 

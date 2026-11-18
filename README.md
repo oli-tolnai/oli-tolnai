@@ -40,7 +40,7 @@ random questions.
 
 [View the team repository](https://github.com/bprof-spec-codes/skillproof)
 
-### CodeLingo — frontend developer
+### [CodeLingo](http://codelingo.tolnaioli.hu/) — frontend developer
 
 A gamified programming-practice platform created by a seven-person university
 team. I built the session setup flow, language and difficulty selection,
